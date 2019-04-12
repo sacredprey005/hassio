@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  hass_tunnel:
+    repository: hassio-addons/hass_tunnel
+    target: hass_tunnel
+image: hass_tunnel
